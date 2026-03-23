@@ -3,6 +3,15 @@
  *
  * Objetivo:
  * Ler dois valores inteiros e exibir a soma com uma mensagem explicativa.
+ *
+ * Exemplo de execução:
+ *
+ * Entrada:
+ * 5
+ * 10
+ *
+ * Saída:
+ * A soma de 5 + 10 é igual a 15.
  */
 
 package estrutura_sequencial;

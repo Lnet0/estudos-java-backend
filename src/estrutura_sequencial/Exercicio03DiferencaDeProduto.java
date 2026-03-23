@@ -7,6 +7,18 @@
  *
  * Fórmula:
  * DIFERENCA = (A * B - C * D)
+ *
+ * Exemplo de execução:
+ *
+ * Entrada:
+ * 5
+ * 6
+ * 7
+ * 8
+ *
+ * Saída:
+ * DIFERENCA = -26
+ *
  */
 
 package estrutura_sequencial;

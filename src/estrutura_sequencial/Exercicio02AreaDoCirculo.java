@@ -8,6 +8,14 @@
  * area = PI * raio²
  *
  * Considerando PI = 3.14159
+ *
+ * Exemplo de execução:
+ *
+ * Entrada:
+ * 2.00
+ *
+ * Saída:
+ * A area do círculo é 12.5664
  */
 
 package estrutura_sequencial;
