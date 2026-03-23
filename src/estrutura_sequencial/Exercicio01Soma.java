@@ -1,6 +1,10 @@
-/*Faça um programa para ler dois valores inteiros,
- *e depois mostrar na tela a soma desses números com uma mensagem explicativa.
+/*
+ * Exercício 01 - Soma de dois números
+ *
+ * Objetivo:
+ * Ler dois valores inteiros e exibir a soma com uma mensagem explicativa.
  */
+
 package estrutura_sequencial;
 
 import java.util.Scanner;
@@ -19,7 +23,7 @@ public class Exercicio01Soma {
     System.out.print("Digite o segundo número: ");
     num2 = sc.nextInt();
 
-    //Processamento dos dados informados pelo usuário.
+    //Cálculo da soma.
     soma = num1 + num2;
 
     //Saída de dados com a soma.
